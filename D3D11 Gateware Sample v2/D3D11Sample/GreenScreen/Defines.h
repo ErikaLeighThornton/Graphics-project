@@ -1,0 +1,12 @@
+#pragma once
+#include <iostream>
+#include <math.h>
+#include <Windows.h>
+#include <time.h>
+#include <windows.h>
+#include "PixelShader.csh"
+#include "VertexShader.csh"
+#include "MeshShader.csh"
+#include "Assets/AlienShip1.h"
+#include "Assets/AlienShip2.h"
+#include "Assets/AlienShip3.h"
